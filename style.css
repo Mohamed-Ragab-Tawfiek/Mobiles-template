@@ -27,10 +27,12 @@
 .carousel img {
   background: linear-gradient(rgba(0, 0, 0, 0.5)), rgba(0, 0, 0, 0.5);
 }
-.prices {
+.prices-title,
+.prices-body {
   background: #b372ae;
 }
-.prices img {
+.prices-title img,
+.prices-body img {
   background: #95458f;
   padding: 20px;
   margin: 5px;
@@ -50,8 +52,8 @@
   text-decoration: none;
 }
 .footer span {
-  font-size: 1.5em;
   color: #65135a;
+  font-size: 1.2em;
 }
 .footer span:hover {
   color: #b372ae;
