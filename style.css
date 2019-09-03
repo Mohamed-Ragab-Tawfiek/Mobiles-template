@@ -1,0 +1,58 @@
+.row {
+  margin: 0;
+}
+.navbar {
+  background: #65135a !important;
+}
+.navbar button {
+  border: 2px solid #b372ae;
+  color: #b372ae;
+}
+.navbar button:hover {
+  background: #470241;
+  color: #b372ae;
+  border: 2px solid #b372ae;
+}
+.navbar .dropdown-menu,
+.navbar .dropdown-item {
+  background: #65135a;
+}
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-item .dropdown-item:hover {
+  background: #470241;
+}
+.navbar a {
+  color: #b372ae !important;
+}
+.carousel img {
+  background: linear-gradient(rgba(0, 0, 0, 0.5)), rgba(0, 0, 0, 0.5);
+}
+.prices {
+  background: #b372ae;
+}
+.prices img {
+  background: #95458f;
+  padding: 20px;
+  margin: 5px;
+}
+.offers {
+  background: #95458f;
+  color: #470241;
+}
+.offers .col-md-3 {
+  border: 1px solid #b372ae;
+}
+.footer {
+  background: #470241;
+  color: #b372ae;
+}
+.footer a:hover {
+  text-decoration: none;
+}
+.footer span {
+  font-size: 1.5em;
+  color: #65135a;
+}
+.footer span:hover {
+  color: #b372ae;
+}
